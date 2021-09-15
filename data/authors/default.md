@@ -1,5 +1,5 @@
 ---
-name: Tails Azimuth
+name: Pixel
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Stanford University
@@ -9,8 +9,6 @@ linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Pixel atau Picture Element, elemen terkecil citra digital yang bisa dilihat mata. Sensor citra secara fisik (dua dimensi) dibuat dari rangkaian ribuan sel yang peka cahaya. Tiap sel disebut pixel, bagi monitor atau display komputer, pixel adalah titik-titik cahaya yang membentuk suatu objek di layar komputer. Makin banyak jumlah pixel dalam suatu citra, makin besar resolusi spatial citra tersebut.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pixel, resolusi dan intensitas akan berpengaruh pada desain grafis yang Anda buat. Kalau kita memperbesar sebuah gambar pada layar hp kita atau laptop kita maka akan terlihat jelas bahwa gambar tersebut terdiri dari ribuan titik-titik atau dots. Titik-titik itulah yang disebut dengan piksel. Maka dari itu piksel atau pixel adalah unsur gambar yang berupa titik kecil yang dihitung per-inch.
