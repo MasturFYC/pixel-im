@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Pixel',
   author: 'Mastur FYC',
-  headerTitle: 'Pixel Indramayu',
+  headerTitle: 'Indramayu',
   description: 'Menangani cetakan Anda',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

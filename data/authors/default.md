@@ -1,8 +1,8 @@
 ---
 name: Pixel
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+avatar: /static/images/logo.svg
+occupation: Printing Solution
+company: Pixel Indramayu
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
